@@ -11,7 +11,6 @@ ToDo:
     + [ ] Grunt
     + [ ] Bower
     + [ ] Composer
-
 + [ ] Documentation:
     + [ ] How to Contribute
     + [ ] Usage
@@ -30,3 +29,8 @@ ToDo:
     + [ ] maybe in **short** and **long** forms.
 + [ ] Builder : changing color, ...
 + [ ] Examples
++ [ ] Javascript little tools
+    + [ ] Email verifier
+    + [ ] Navigation
+    + [ ] ...
+    
