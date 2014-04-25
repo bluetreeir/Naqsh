@@ -33,4 +33,4 @@ ToDo:
     + [ ] Email verifier
     + [ ] Navigation
     + [ ] ...
-    
++ [ ] **Only Full Releases**
