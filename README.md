@@ -34,3 +34,7 @@ ToDo:
     + [ ] Navigation
     + [ ] ...
 + [ ] **Only Full Releases**
++ [ ] Maps -> Bootstrap?
++ [ ] jshintrc?
++ [ ] csslintrc?
++ [ ] Articles on how to migrate from other systems to this.
